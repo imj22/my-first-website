@@ -19,3 +19,6 @@ for sections:
 
 1. figure out how to hide sections, or make them tied to a specific event ? so that there is a basic "home" page and the user will have to use the navigation tab to view the other sections. 
     --> maybe i can put my art in the homepage to make it look pleasing/engaging? 
+
+small things: 
+1. want to center headers of sections and italicize, but have paragraphs left aligned/normal. 
