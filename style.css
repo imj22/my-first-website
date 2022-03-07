@@ -2,3 +2,8 @@ body {
     background : white
 }
 
+nav {
+    display: block;
+    background : black;
+    color: white;
+}
